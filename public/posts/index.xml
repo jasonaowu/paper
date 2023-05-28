@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 我的全新 Hugo 网站</title>
+        <link>http://paper.jasonaowu.top/posts/</link>
+        <description>所有文章 | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 28 May 2023 01:53:59 &#43;0800</lastBuildDate><atom:link href="http://paper.jasonaowu.top/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First Blog</title>
+    <link>http://paper.jasonaowu.top/posts/first-blog/</link>
+    <pubDate>Sun, 28 May 2023 01:53:59 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>http://paper.jasonaowu.top/posts/first-blog/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
